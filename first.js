@@ -1,18 +1,1 @@
-let b = 10;
-
-function greet(){
-    let a = 20;
-    let b = 30;
-    
-    function meet(){
-        console.log(a);
-        console.log(b);
-    }
-
-    return meet;
-}
-
-
-const num = greet();
-num();
-
+// only for uderstanding purpose this file i was created the main code was in main.js that is in  another folder 
